@@ -1,0 +1,7 @@
+CACHE MANIFEST
+# 05_06_2024 v2
+index.html
+https://church-vn.github.io/youth-camp-answers/index.html
+Raspisanie_podrobnoe.html
+stylesheet.css
+https://church-vn.github.io/youth-camp-answers/Raspisanie_podrobnoe.html
